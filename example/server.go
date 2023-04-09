@@ -1,6 +1,6 @@
 package main
 
-import "github.com/nanobox-tools/palantir"
+import "github.com/mu-box/golang-palantir"
 
 func main() {
 
